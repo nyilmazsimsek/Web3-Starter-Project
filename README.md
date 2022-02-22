@@ -3,5 +3,5 @@ A starter project of Web3 applications which is including Metamask functionaliti
 
 ```shell
 npx create-next-app --use-npm
-npx run dev
+npm run dev
 ```
